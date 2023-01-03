@@ -4,3 +4,5 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 
 # Additional
 Some sample text included here
+
+[![Build Status](https://dev.azure.com/azog/Part%20Unlimited%20E2E%20-%20GitHub%20Integration/_apis/build/status/MorgothOfUtumna.PartsUnlimitedE2E?branchName=master)](https://dev.azure.com/azog/Part%20Unlimited%20E2E%20-%20GitHub%20Integration/_build/latest?definitionId=12&branchName=master)
